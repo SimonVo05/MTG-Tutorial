@@ -1,6 +1,6 @@
 # Magic Tutorial Game
 
-An interactive **Magic: The Gathering–style card game** built with **C++ and Qt**, developed as part of CS3505 Assignment 9.  
+An interactive **Magic: The Gathering–style card game** built with **C++ and Qt**  
 This project simulates a turn-based battle system where players can draw, play, and interact with cards while the game enforces rules and phases.
 
 ---
